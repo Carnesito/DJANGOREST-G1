@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Base de datos
+db.sqlite3
+
+# Node modules
+node_modules/
+dist/
+build/
+.env
