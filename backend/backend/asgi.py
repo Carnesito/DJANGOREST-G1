@@ -1,3 +1,4 @@
+# nota breve 08
 """
 ASGI config for backend project.
 
