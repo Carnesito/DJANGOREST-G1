@@ -1,3 +1,4 @@
+// Vista de perfil de usuario
 import React from "react";
 
 import Navbar from "components/Navbars/AuthNavbar";
