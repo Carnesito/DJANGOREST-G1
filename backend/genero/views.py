@@ -1,3 +1,4 @@
+# nota breve 24
 from rest_framework import viewsets
 from .models import Genero
 from .serializers import GeneroSerializer
