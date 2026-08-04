@@ -35,7 +35,7 @@ export default function Artistas() {
     <>
       <div className="flex flex-wrap mt-4">
         <div className="w-full mb-12 px-4">
-          <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-xl rounded-lg bg-gray-900 text-white">
+          <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-xl rounded-lg bg-gray-900 text-green-200">
             <div className="rounded-t mb-0 px-4 py-4 border-0 bg-gray-800">
               <div className="flex flex-wrap items-center">
                 <div className="relative w-full px-4 max-w-full flex-grow flex-1">

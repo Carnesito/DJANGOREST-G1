@@ -48,7 +48,7 @@ export default function ArtistaForm() {
     <>
       <div className="flex flex-wrap mt-4">
         <div className="w-full mb-12 px-4">
-          <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-xl rounded-lg bg-gray-900 text-white">
+          <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-xl rounded-lg bg-gray-900 text-green-200">
             <div className="rounded-t mb-0 px-4 py-4 border-0 bg-gray-800">
               <div className="flex flex-wrap items-center">
                 <div className="relative w-full px-4 max-w-full flex-grow flex-1">
@@ -71,7 +71,7 @@ export default function ArtistaForm() {
                 <div className="flex flex-wrap">
                   <div className="w-full lg:w-6/12 px-4">
                     <div className="relative w-full mb-3">
-                      <label className="block uppercase text-gray-400 text-xs font-bold mb-2">
+                      <label className="block uppercase text-green-300 text-xs font-bold mb-2">
                         Nombre Artístico
                       </label>
                       <input
@@ -79,13 +79,13 @@ export default function ArtistaForm() {
                         name="nombre_artistico"
                         value={formData.nombre_artistico || ""}
                         onChange={handleChange}
-                        className="border-0 px-3 py-3 placeholder-gray-500 text-white bg-gray-800 rounded-lg text-sm shadow focus:outline-none focus:ring-2 focus:ring-green-400 w-full ease-linear transition-all duration-150"
+                        className="border-0 px-3 py-3 placeholder-gray-500 text-green-200 bg-gray-800 rounded-lg text-sm shadow focus:outline-none focus:ring-2 focus:ring-green-400 w-full ease-linear transition-all duration-150"
                       />
                     </div>
                   </div>
                   <div className="w-full lg:w-6/12 px-4">
                     <div className="relative w-full mb-3">
-                      <label className="block uppercase text-gray-400 text-xs font-bold mb-2">
+                      <label className="block uppercase text-green-300 text-xs font-bold mb-2">
                         Género Principal
                       </label>
                       <input
@@ -93,13 +93,13 @@ export default function ArtistaForm() {
                         name="genero_principal"
                         value={formData.genero_principal || ""}
                         onChange={handleChange}
-                        className="border-0 px-3 py-3 placeholder-gray-500 text-white bg-gray-800 rounded-lg text-sm shadow focus:outline-none focus:ring-2 focus:ring-green-400 w-full ease-linear transition-all duration-150"
+                        className="border-0 px-3 py-3 placeholder-gray-500 text-green-200 bg-gray-800 rounded-lg text-sm shadow focus:outline-none focus:ring-2 focus:ring-green-400 w-full ease-linear transition-all duration-150"
                       />
                     </div>
                   </div>
                   <div className="w-full lg:w-6/12 px-4">
                     <div className="relative w-full mb-3">
-                      <label className="block uppercase text-gray-400 text-xs font-bold mb-2">
+                      <label className="block uppercase text-green-300 text-xs font-bold mb-2">
                         Año de Inicio
                       </label>
                       <input
@@ -107,7 +107,7 @@ export default function ArtistaForm() {
                         name="anio_inicio"
                         value={formData.anio_inicio || ""}
                         onChange={handleChange}
-                        className="border-0 px-3 py-3 placeholder-gray-500 text-white bg-gray-800 rounded-lg text-sm shadow focus:outline-none focus:ring-2 focus:ring-green-400 w-full ease-linear transition-all duration-150"
+                        className="border-0 px-3 py-3 placeholder-gray-500 text-green-200 bg-gray-800 rounded-lg text-sm shadow focus:outline-none focus:ring-2 focus:ring-green-400 w-full ease-linear transition-all duration-150"
                       />
                     </div>
                   </div>
