@@ -1,3 +1,4 @@
+# nota breve 15
 from django.db import models
 from album.models import Album
 from artista.models import Artista
