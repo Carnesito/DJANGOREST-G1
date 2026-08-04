@@ -1,3 +1,4 @@
+// Barra de navegación superior para el panel de administración
 import React from "react";
 
 import UserDropdown from "components/Dropdowns/UserDropdown";
