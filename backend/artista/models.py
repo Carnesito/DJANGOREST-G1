@@ -6,6 +6,7 @@ class Artista(models.Model):
     genero_principal = models.CharField(max_length=100)
     biografia = models.TextField(blank=True, null=True)
     anio_inicio = models.IntegerField(blank=True, null=True)
+    hobbies = models.CharField(max_length=250, blank=True, null=True)
     estado = models.BooleanField(default=True)
 
     def __str__(self):
