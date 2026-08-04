@@ -1,3 +1,4 @@
+# nota breve 25
 from rest_framework import serializers
 from .models import Genero
 
