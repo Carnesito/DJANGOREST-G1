@@ -1,3 +1,4 @@
+// Servicio de autenticación de usuarios
 import apiClient from '../api';
 
 export const login = async (username, password) => {
