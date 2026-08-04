@@ -1,3 +1,4 @@
+// Componente de ruta protegida que redirige a login si no hay sesión
 import React from "react";
 import { Route, Redirect } from "react-router-dom";
 import { isAuthenticated } from "../../services/authService";
