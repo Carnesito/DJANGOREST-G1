@@ -1,3 +1,4 @@
+# Configuración de la aplicación de disqueras
 from django.apps import AppConfig
 
 
