@@ -1,3 +1,4 @@
+# Configuración de la aplicación de géneros
 from django.apps import AppConfig
 
 
