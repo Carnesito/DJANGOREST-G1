@@ -1,3 +1,4 @@
+# nota breve 13
 from rest_framework import serializers
 from .models import Artista
 
