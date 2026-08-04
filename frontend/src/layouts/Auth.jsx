@@ -1,3 +1,4 @@
+// Layout para las páginas de autenticación (login y registro)
 import React from "react";
 import { Switch, Route, Redirect } from "react-router-dom";
 
