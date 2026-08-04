@@ -1,3 +1,4 @@
+# comentario peque?o 01
 from django.db import models
 from disquera.models import Disquera
 
