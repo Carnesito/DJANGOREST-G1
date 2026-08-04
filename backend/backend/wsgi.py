@@ -1,3 +1,4 @@
+# nota breve 11
 """
 WSGI config for backend project.
 
