@@ -1,3 +1,4 @@
+// Servicio de API para operaciones CRUD de artistas
 import api from "../api";
 
 export const getArtistas = async () => {
