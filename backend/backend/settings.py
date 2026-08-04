@@ -1,3 +1,4 @@
+# nota breve 09
 """
 Django settings for backend project.
 
