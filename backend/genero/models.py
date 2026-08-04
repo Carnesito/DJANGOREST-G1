@@ -1,3 +1,4 @@
+# nota breve 23
 from django.db import models
 
 
