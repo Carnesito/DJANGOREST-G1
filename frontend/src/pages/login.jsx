@@ -29,7 +29,7 @@ export default function Login() {
       <div className="container mx-auto px-4 h-full flex flex-col items-center justify-center">
         <div className="w-full max-w-md bg-gray-900 text-white p-8 rounded-lg shadow-2xl border border-gray-800">
           <div className="text-center mb-8">
-            <h1 className="text-3xl font-bold tracking-tight mb-2 text-green-400">
+            <h1 className="text-3xl font-bold tracking-tight mb-2 text-green-400 uppercase">
               <i className="fas fa-music mr-2"></i> Iniciar sesión
             </h1>
             <p className="text-sm text-green-400 font-medium">Ingresa tus credenciales para continuar</p>
