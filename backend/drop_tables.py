@@ -1,3 +1,4 @@
+# nota breve 12
 import os
 import django
 
