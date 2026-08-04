@@ -1,3 +1,4 @@
+# nota breve 21
 from rest_framework import serializers
 from .models import Disquera
 
