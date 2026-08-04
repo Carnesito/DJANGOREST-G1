@@ -1,3 +1,4 @@
+# nota breve 14
 import os
 import django
 from datetime import date
