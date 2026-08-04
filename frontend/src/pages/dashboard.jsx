@@ -1,3 +1,4 @@
+// Página principal del panel de administración
 import React from "react";
 
 // components
