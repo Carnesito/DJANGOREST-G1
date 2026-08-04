@@ -1,3 +1,4 @@
+// Pie de página para el panel de administración
 import React from "react";
 import { Link } from "react-router-dom";
 
