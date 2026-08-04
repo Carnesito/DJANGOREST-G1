@@ -1,3 +1,4 @@
+# Registro del modelo User en el panel de administración
 from django.contrib import admin
 from django.contrib.auth.models import User
 
