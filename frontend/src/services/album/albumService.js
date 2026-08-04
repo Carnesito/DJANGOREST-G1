@@ -1,3 +1,4 @@
+// Servicio de API para operaciones CRUD de álbumes
 import api from "../api";
 
 export const getAlbums = async () => {
