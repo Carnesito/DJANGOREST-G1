@@ -1,3 +1,4 @@
+// Vista de la página de inicio (landing page)
 import React from "react";
 import { Link } from "react-router-dom";
 
